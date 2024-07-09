@@ -54,8 +54,10 @@ The data set contains the following diseases:
 - Image Classification
 - Deep Learning
 
+## Acknowledgement
 
+Developed as part of the Melanoma Detection Assignment required for UpGrad - IIIT Bangalore ML C60 Programme.
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Ramandeepmehra] - feel free to contact me!
 
