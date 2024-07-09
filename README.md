@@ -1,5 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
+# Melanoma Detection Assignment
+
+> This assignment involves building a multiclass classification model using a custom convolutional neural network (CNN) in TensorFlow. CNNs are particularly suited for image classification tasks. The process includes defining the network architecture, compiling the model, training it on data, and evaluating its performance. The assignment provides an opportunity to learn how to build, train, and evaluate a custom CNN in TensorFlow, gaining valuable experience in deep learning and image classification.
 
 
 ## Table of Contents
