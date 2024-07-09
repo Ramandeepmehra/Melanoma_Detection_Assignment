@@ -21,7 +21,8 @@ The data set contains the following diseases:
  
 
 
-## Table of Contents
+## General Information
+
 * Build a multiclass classification model using a custom convolutional neural network (CNN) architecture in TensorFlow.
 * Design and implement a CNN architecture tailored to the specific dataset.
 * Familiarize yourself with the problem statement and the dataset.
@@ -34,25 +35,14 @@ The data set contains the following diseases:
 * Fine-tune your model's hyperparameters to achieve state-of-the-art results on your chosen dataset.
 
 
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+
+* The overarching goal is to support efforts to reduce deaths caused by skin cancer.
+* The primary motivation is to use advanced image classification technology for people's well-being.
+* Computer vision has made significant progress in machine learning and deep learning, which are scalable across domains.
+* The dataset consists of 2357 images of malignant and benign oncological diseases from the International Skin Imaging Collaboration (ISIC).
+* All images were sorted according to the ISIC classification, and all subsets were divided into the same number of images.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
