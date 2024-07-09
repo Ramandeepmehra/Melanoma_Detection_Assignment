@@ -22,16 +22,16 @@ The data set contains the following diseases:
 
 
 ## Table of Contents
-* (#Build a multiclass classification model using a custom convolutional neural network (CNN) architecture in TensorFlow.)
-* (#Design and implement a CNN architecture tailored to the specific dataset.)
-* (#Familiarize yourself with the problem statement and the dataset.)
-* (#Incorporate max-pooling layers to reduce the dimensionality of the feature maps while preserving essential information.)
-* (#Use a stack of fully connected layers to combine the high-level features extracted by the convolutional layers and make the final classification decision.)
-* (#Train your custom CNN model using TensorFlow's built-in optimization algorithms, such as Adam or SGD.)
-* (#Choose a loss function appropriate for multiclass classification, such as cross-entropy loss.)
-* (#Use regularization techniques, like dropout or batch normalization, to prevent overfitting and improve the generalization performance of your model.)
-* (#Evaluate the performance of your CNN model using common metrics for multiclass classification, such as accuracy, precision, recall, and F1-score.)
-* (#Fine-tune your model's hyperparameters to achieve state-of-the-art results on your chosen dataset.)
+* Build a multiclass classification model using a custom convolutional neural network (CNN) architecture in TensorFlow.
+* Design and implement a CNN architecture tailored to the specific dataset.
+* Familiarize yourself with the problem statement and the dataset.
+* Incorporate max-pooling layers to reduce the dimensionality of the feature maps while preserving essential information.
+* Use a stack of fully connected layers to combine the high-level features extracted by the convolutional layers and make the final classification decision.
+* Train your custom CNN model using TensorFlow's built-in optimization algorithms, such as Adam or SGD.
+* Choose a loss function appropriate for multiclass classification, such as cross-entropy loss.
+* Use regularization techniques, like dropout or batch normalization, to prevent overfitting and improve the generalization performance of your model.
+* Evaluate the performance of your CNN model using common metrics for multiclass classification, such as accuracy, precision, recall, and F1-score.
+* Fine-tune your model's hyperparameters to achieve state-of-the-art results on your chosen dataset.
 
 
 * [Technologies Used](#technologies-used)
