@@ -48,11 +48,11 @@ The data set contains the following diseases:
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- Google Colab
+- TensorFlow
+- Convolutional Neural Network (CNN)
+- Image Classification
+- Deep Learning
 
 ## Acknowledgements
 Give credit here.
